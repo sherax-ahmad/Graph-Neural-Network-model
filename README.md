@@ -1,7 +1,3 @@
-Here's a detailed and professional `README.md` for your GitHub repo based on the code and pipeline you’ve shared. It assumes your repository is for a **Graph Neural Network (GNN)** project using **PyTorch Geometric** and **MNIST Superpixels** dataset.
-
----
-
 ```markdown
 # MNIST Superpixels with GCN using PyTorch Geometric
 
