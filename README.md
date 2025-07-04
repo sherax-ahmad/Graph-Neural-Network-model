@@ -153,5 +153,3 @@ Email: sheraxahmad139@gmail.com
 
 ```
 
-Let me know if you'd like a `requirements.txt` file or to convert this into a Colab-compatible notebook version as well.
-```
