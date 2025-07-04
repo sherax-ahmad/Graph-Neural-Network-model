@@ -1,0 +1,28 @@
+# PyTorch and torchvision - enforced older version for compatibility
+torch==1.6.0
+torchvision==0.7.0
+
+# PyTorch Geometric dependencies for CPU
+torch-scatter==2.0.9+cpu
+torch-sparse==0.6.15+cpu
+torch-cluster==1.6.0+cpu
+torch-spline-conv==1.2.1+cpu
+torch-geometric==2.1.0.post1
+
+# Essential packages
+numpy==1.21.6
+scipy==1.7.3
+scikit-learn==1.0.2
+matplotlib==3.5.3
+seaborn==0.11.2
+networkx==2.6.3
+jinja2==2.11.3
+requests==2.23.0
+pyparsing==3.0.9
+joblib==1.1.0
+threadpoolctl==3.1.0
+pillow==7.1.2
+future==0.16.0
+
+# Dependency links for CPU-specific torch-geometric wheels
+--find-links https://data.pyg.org/whl/torch-1.12.0+cpu.html
